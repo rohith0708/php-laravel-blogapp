@@ -1,0 +1,23 @@
+
+
+
+body h1{
+    color: aqua;
+    font-weight:bold ;
+}
+.divdesign{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+}
+
+.divdesign label{
+    color:green;
+    font-weight: bold;
+    padding-bottom: 1%;
+}
+.form{
+    text-align: center;
+    color:aqua;
+}
